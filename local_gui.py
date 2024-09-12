@@ -53,7 +53,7 @@ class OllamaChatApp:
             "Yes" or "No" response with a brief explanation. Do not offer additional advice or elaborations."""},
 
             {"role": "user", "content": """
-            Conditions:
+            Hello, I am looking for a job. Can you help me check if a job is suitable for me? Here are my conditions:
             - Please write here important conditions that you want to check against the job description.
             - It can be location, language, work permit, or any other condition.
             - It can be related to visa issues you can't comply.
